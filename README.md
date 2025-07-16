@@ -1,4 +1,4 @@
-# 🔥LongAttn ：Selecting Long-context Training Data via Token-level Attention
+<img width="1502" height="636" alt="image" src="https://github.com/user-attachments/assets/5a7389d4-c9a5-4a3f-8c12-237fd086e1c3" /># 🔥LongAttn ：Selecting Long-context Training Data via Token-level Attention
 <div align="center">
   <img src="https://img.shields.io/badge/Self--Attention-black" alt="self-attention">
   <img src="https://img.shields.io/badge/Pre--trained-Data-red" alt="Data">
@@ -8,8 +8,8 @@
 </div> 
 <div align="center">
 <a href="assets/LongAttn.pdf"><img src="assets/paper-page-xl.svg" alt="Paper page"></a>
-<a href=""><img src="assets/dataset-on-hf-xl.svg" alt="Dataset on HF"></a>
-<a href=""><img src="assets/model-on-hf-xl.svg" alt="Model on HF"></a>
+<a href="https://huggingface.co/Lyun0912/LongAttn"><img src="assets/dataset-on-hf-xl.svg" alt="Dataset on HF"></a>
+<a href="https://huggingface.co/datasets/Lyun0912/LongABC"><img src="assets/model-on-hf-xl.svg" alt="Model on HF"></a>
 </div>
 
 ## 👀Overview
@@ -32,8 +32,8 @@ The download links for the model and data are as follows:
 
 | Model & Data | Link |
 | --- | --- |
-| **LongABC-32K** | [Coming soon]() |
-| **LongAttn-8B** | [Coming soon]() |
+| **LongABC-32K** | [Download Link](https://huggingface.co/datasets/Lyun0912/LongABC) |
+| **LongAttn-8B** | [Download Link](https://huggingface.co/Lyun0912/LongAttn) |
 
 ## 🚀Quick Start
 ### Environment Setup
