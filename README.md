@@ -8,8 +8,8 @@
 </div> 
 <div align="center">
 <a href="assets/LongAttn.pdf"><img src="assets/paper-page-xl.svg" alt="Paper page"></a>
-<a href="https://huggingface.co/Lyun0912/LongAttn"><img src="assets/dataset-on-hf-xl.svg" alt="Dataset on HF"></a>
-<a href="https://huggingface.co/datasets/Lyun0912/LongABC"><img src="assets/model-on-hf-xl.svg" alt="Model on HF"></a>
+<a href="https://huggingface.co/datasets/Lyun0912/LongABC"><img src="assets/dataset-on-hf-xl.svg" alt="Dataset on HF"></a>
+<a href="https://huggingface.co/Lyun0912/LongAttn"><img src="assets/model-on-hf-xl.svg" alt="Model on HF"></a>
 </div>
 
 ## 👀Overview
