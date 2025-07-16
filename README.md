@@ -1,4 +1,4 @@
-<img width="1502" height="636" alt="image" src="https://github.com/user-attachments/assets/5a7389d4-c9a5-4a3f-8c12-237fd086e1c3" /># 🔥LongAttn ：Selecting Long-context Training Data via Token-level Attention
+# 🔥LongAttn ：Selecting Long-context Training Data via Token-level Attention
 <div align="center">
   <img src="https://img.shields.io/badge/Self--Attention-black" alt="self-attention">
   <img src="https://img.shields.io/badge/Pre--trained-Data-red" alt="Data">
